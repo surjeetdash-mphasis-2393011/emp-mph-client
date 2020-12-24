@@ -1,0 +1,24 @@
+.mainContainer {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.headerContainer {
+  background-color: #ffffff;
+}
+
+.bodyContainer {
+  background-color: #ffffff;
+}
+.slidingContainer {
+  background-color: #ffffff;
+}
+.footerContainer {
+  background-color: #ffffff;
+}
